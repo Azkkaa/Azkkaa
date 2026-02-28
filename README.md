@@ -17,14 +17,16 @@ I am a Fullstack Web Developer focused on building scalable web applications and
 
 ### Featured Projects
 
-- [] **Autonomous Drone:** Developing a navigation system using ESP32 for competitive excellence.
+- [ ] **Autonomous Drone:** Developing a navigation system using ESP32 for competitive excellence.
 
 ---
 
 ### 📈 GitHub Stats
 
-![Azkkaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azkkaa&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azkkaa&layout=compact&theme=dark)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Azkkaa&show_icons=true&theme=dark" alt="Azkkaa's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azkkaa&layout=compact&theme=dark" alt="Top Langs" />
+</p>
 
 ---
 
