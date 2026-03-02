@@ -1,4 +1,8 @@
-# Hi there, I'm Muhammad Azka Faza! 👋
+<p align="center">
+  <img src="Hello Github.png" alt="Banner" width="100%">
+</p>
+
+# 👋 Hi there, I'm Muhammad Azka Faza!
 
 ### 🎓 College Student & Full-Stack Web Developer
 
@@ -8,25 +12,16 @@ I am a Fullstack Web Developer focused on building scalable web applications and
 
 ### 🛠️ Tech Stack & Tools
 
-- **Backend:** Laravel (PHP), Node.js
+- **Backend:** Laravel (PHP), Express JS, Node.js
 - **Frontend:** React, Tailwind CSS, JavaScript
 - **Hardware/IoT:** ESP32
 - **Environment:** Windows 11, Git & GitHub, IoT
 
 ---
 
-### Featured Projects
+### Featured Ambitious Projects
 
 - [ ] **Autonomous Drone:** Developing a navigation system using ESP32 for competitive excellence.
-
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azkkaa&show_icons=true&theme=dark" alt="Azkkaa's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azkkaa&layout=compact&theme=dark" alt="Top Langs" />
-</p>
 
 ---
 
@@ -35,4 +30,4 @@ I am a Fullstack Web Developer focused on building scalable web applications and
 - 📧 Email: azkafaza2107@gmail.com
 - 🚀 Goal: Be useful and kind to others.
 
-"With great power comes great responsibility."
+"With great power comes great responsibility." - Uncle Ben
