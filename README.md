@@ -20,14 +20,14 @@ I am a Fullstack Web Developer focused on building scalable web applications and
 
 ---
 
-### Development Environment
+### 💻 Development Environment
 - **OS:** Windows 11
 - **Version Control:** Git & GitHub
 - **Tools:** VS Code, Antigravity, Postman, Laragon/XAMPP
 
 ---
 
-### Featured Ambitious Projects
+### Future Ambitious Projects
 
 - [ ] **Autonomous Drone:** Developing a navigation system using ESP32 for competitive excellence.
 
