@@ -12,10 +12,18 @@ I am a Fullstack Web Developer focused on building scalable web applications and
 
 ### 🛠️ Tech Stack & Tools
 
-- **Backend:** Laravel (PHP), Express JS, Node.js
-- **Frontend:** React, Tailwind CSS, JavaScript
-- **Hardware/IoT:** ESP32
-- **Environment:** Windows 11, Git & GitHub, IoT
+- **Frontend:** React, Tailwind CSS, JavaScript (ES6+)
+- **Backend:** Laravel (PHP), Express JS (Node.js)
+- **Database:** MySql
+- **API & Communication Protocol:** REST API, WebSockets (Pusher)
+- **Hardware and IoT:** ESP32, IoT Sensor (MQ-2, DHT-22, etc.)
+
+---
+
+### Development Environment
+- **OS:** Windows 11
+- **Version Control:** Git & GitHub
+- **Tools:** VS Code, Antigravity, Postman, Laragon/XAMPP
 
 ---
 
@@ -28,6 +36,6 @@ I am a Fullstack Web Developer focused on building scalable web applications and
 ### 📫 Let's Connect!
 
 - 📧 Email: azkafaza2107@gmail.com
-- 🚀 Goal: Be useful and kind to others.
+- 👨🏽‍💼 LikedIn: https://www.linkedin.com/in/muhammad-azka-faza
 
-"With great power comes great responsibility." - Uncle Ben
+> "With great power comes great responsibility." — **Uncle Ben**
