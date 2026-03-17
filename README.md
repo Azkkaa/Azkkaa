@@ -32,9 +32,9 @@ I am a Fullstack Web Developer focused on building scalable web applications and
 ### 💻 Development Environment
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230078d4.svg?style=flat-square&logo=windows-11&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-007ACC?style=flat-square&logo=laragon&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=antigravity&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
