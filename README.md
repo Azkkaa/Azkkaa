@@ -9,6 +9,8 @@
 
 I am a Full-Stack Web Developer focused on building secure, scalable web applications and exploring the intersection of software and hardware through IoT. Currently deepening my expertise in **Backend Development** while maintaining a strong foundation in modern frontend ecosystems and automation.
 
+</div>
+
 ---
 
 ### 🏆 Featured Achievement
@@ -42,8 +44,6 @@ I am a Full-Stack Web Developer focused on building secure, scalable web applica
 
 ### 💻 Development Environment & Tools
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?logo=windows11&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white) ![Laragon](https://img.shields.io/badge/Laragon-007FE3?logo=laragon&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-blue)
-
-</div>
 
 ---
 
