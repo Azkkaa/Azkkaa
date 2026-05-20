@@ -18,27 +18,27 @@ I am a Full-Stack Web Developer focused on building secure, scalable web applica
 
 ### 🛠️ Tech Stack & Tools
 
-#### Frontend
-**Languages & Tools**
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/Javascript-323330?logo=javascript&logoColor=f7df1e)
-**Frameworks & Build Tools**
-![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+#### 💻 Frontend
+* **Languages & Tools:**
+  ![HTML5](https://img.shields.io/badge/HTML5-E34C26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/Javascript-323330?logo=javascript&logoColor=f7df1e)
+* **Frameworks & Build Tools:**
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 
-<br>
+---
 
-#### Backend & Databases
-**Languages & Frameworks**
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-**Databases & Real-time**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Pusher](https://img.shields.io/badge/Pusher-300D4F?logo=pusher&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white)
+#### ⚙️ Backend & Databases
+* **Languages & Frameworks:**
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.dot.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+* **Databases & Real-time:**
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Pusher](https://img.shields.io/badge/Pusher-300D4F?logo=pusher&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white)
 
-<br>
+---
 
-#### Internet of Things (IoT)
-**Hardware & Microcontrollers**
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino_UNO-00979D?logo=arduino&logoColor=white)
-**Programming Languages**
-![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?logo=micropython&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+#### 🔌 Internet of Things (IoT)
+* **Hardware & Microcontrollers:**
+  ![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino_UNO-00979D?logo=arduino&logoColor=white)
+* **Programming Languages:**
+  ![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?logo=micropython&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 
 ---
 
