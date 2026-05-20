@@ -24,7 +24,6 @@ I am a Full-Stack Web Developer focused on building secure, scalable web applica
 * **Frameworks & Build Tools:**
   ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 
----
 
 #### ⚙️ Backend & Databases
 * **Languages & Frameworks:**
@@ -32,7 +31,6 @@ I am a Full-Stack Web Developer focused on building secure, scalable web applica
 * **Databases & Real-time:**
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Pusher](https://img.shields.io/badge/Pusher-300D4F?logo=pusher&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white)
 
----
 
 #### 🔌 Internet of Things (IoT)
 * **Hardware & Microcontrollers:**
